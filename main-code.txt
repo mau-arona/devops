@@ -10,6 +10,7 @@
 /*security patch */
 {patch code
   begin
+    patch line1
   end
 end patch}
 /*end security patch */
